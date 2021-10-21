@@ -1,8 +1,6 @@
 # Login-Authentication-using-JS
 Login-Signup Authentication Form using HTML, CSS and JavaScript.
 
-By Harshraj Todake
-
 A HTML, CSS and JS Project for Login-Authentication form.
 
 Technologies Used -> HTML -> CSS -> Bootstrap -> JavaScript.
