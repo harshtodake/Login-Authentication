@@ -13,3 +13,23 @@ GitHub link: https://github.com/harshtodake/Login-Authentication
 
 Hosted Link: https://login-authentication-form.netlify.app/.
 
+
+Some Snapshots
+
+1. Login form 
+
+![image](https://user-images.githubusercontent.com/83589184/138239695-3197acfe-bebc-49a0-a845-c8df0d069837.png)
+
+2. Email Authentication
+
+![image](https://user-images.githubusercontent.com/83589184/138239816-cd78f468-a0ad-40ad-92e8-17ebd2f37306.png)
+
+3. Password Authentication
+
+![image](https://user-images.githubusercontent.com/83589184/138239993-cd8dfe8f-9913-4fd4-a171-660544bef94c.png)
+
+4. Sign-up Form
+
+![image](https://user-images.githubusercontent.com/83589184/138240339-fe21d0be-ea89-419c-8690-dc93c646c053.png)
+
+5. E-mail and Password Authentication is also given for Signup-Form
