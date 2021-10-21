@@ -16,4 +16,5 @@ GitHub link: https://github.com/harshtodake/Login-Authentication
 Hosted Link: https://login-authentication-form.netlify.app/
 
 Here are some snapshots
-:- ![image](https://user-images.githubusercontent.com/83589184/138218991-023f80d1-38a1-4399-88c2-1d2d99cd4f18.png)
+:- ![image](https://user-images.githubusercontent.com/83589184/138219064-1500d4c9-793f-4b77-984e-d78b8f28b280.png)
+
