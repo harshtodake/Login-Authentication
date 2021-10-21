@@ -24,5 +24,9 @@ Here are some snapshots
 2. Email authentication
 ![image](https://user-images.githubusercontent.com/83589184/138219169-aa1ff1db-f3d3-4df0-b662-0a3d71b471c0.png)
 
+3. Password authentication
+![image](https://user-images.githubusercontent.com/83589184/138219442-e02689fb-e843-457c-8363-7a22a30da36f.png)
+
+
 
 
