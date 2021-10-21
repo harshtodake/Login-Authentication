@@ -18,8 +18,10 @@ Hosted Link: https://login-authentication-form.netlify.app/
 Here are some snapshots
 :- 
 
-**![image](https://user-images.githubusercontent.com/83589184/138219139-7d5fac12-e8a3-4aad-9172-a455c17de487.png)
+1. Login Form
+![image](https://user-images.githubusercontent.com/83589184/138219139-7d5fac12-e8a3-4aad-9172-a455c17de487.png)
 
+2. Email authentication
 ![image](https://user-images.githubusercontent.com/83589184/138219169-aa1ff1db-f3d3-4df0-b662-0a3d71b471c0.png)
 
 
